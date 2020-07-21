@@ -1,4 +1,4 @@
-from get_customer import get_user_data
+from retrieve_customer import get_user_data
 
 def lambda_handler(event, context):
     print(event)
